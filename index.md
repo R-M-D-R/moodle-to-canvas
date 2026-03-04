@@ -20,23 +20,23 @@ Before we jump into the "How To" of all this, let's understand the big differenc
 <br><br>
 Moodle is very straight-forward: everything is located on a single page, so if you want to find anything, _just scroll down_. Here is a picture of the top of my Moodle course:
 <br><br>
-![Course homepage](/assets/images/main_course_page.png "Moodle homepage"){: .centered-image}
+![Moodle course homepage](/assets/images/main_course_page.png "Moodle homepage")
 <br><br>
 To find the course content, just scroll down.
 <br><br>
-![Course homepage](/assets/images/main_course_sections.png "Moodle course content"){: .centered-image}
+![Moodle course content](/assets/images/main_course_sections.png "Moodle course content")
 <br><br>
 Canvas does not have everything located in a single page. Instead, the user starts off at the _Homepage_. Here is a picture of my Canvas course homepage:
 <br><br>
-![Course homepage](/assets/images/Canvas_homepage.png "Canvas homepage"){: .centered-image}
+![Canvas course homepage](/assets/images/canvas_homepage.png "Canvas homepage")
 <br><br>
 In order to access the course content, you need to click on a _Navigation link_ on the left called _Modules_.
 <br><br>
-![Course homepage](/assets/images/modules_link.png "Navigation links"){: .centered-image}
+![Navigation links](/assets/images/modules_link.png "Navigation links")
 <br><br>
 This will take you to the course content:
 <br><br>
-![Course homepage](/assets/images/main_course_sections_Canvas.png "Canvas course content"){: .centered-image}
+![Canvas course content](/assets/images/main_course_sections_Canvas.png "Canvas course content")
 <br><br>
 Notice that the content area of both Moodle and Canvas look similar. Our goal is to set up our Moodle course in such a way so that when we _do_ migrate  it into Canvas, most of the work has already been done!
 <br><br>
@@ -46,7 +46,7 @@ Let's start with the biggest and most import objects in both Moodle and Canvas: 
 <br><br>
 From here, it's just a matter of making sure that all of the objects inside your Moodle sections are set up to become the correct object in Canvas. To see how this works, let's look at the first few sections in my Brief Calculus Moodle course. We start by expanding the _START HERE_ section at the top of my course Moodle page.
 <br><br>
-![Course homepage](/assets/images/start_here_section.png "START HERE section"){: .centered-image}
+![START HERE section](/assets/images/start_here_section.png "START HERE section")
 <br><br>
 It looks like it contains 3 objects, but it actually contains 4 objects:
 1. a text area
@@ -60,8 +60,10 @@ The next object is a _Quiz_. This is labeled **1. Click HERE to complete the Enr
 <br><br>
 The next object is a _file_. This is labeled **2. Click HERE to read the syllabus.** Canvas has a great file structure. You can upload files into a repository for that course, then you can link to that file from anywhere in the course (for example, you can link to that file from inside a Page). Then, when you copy your Canvas course over into the next semester, all the files _AND_ all the links will copy over into the new course. And you won't have to fix anything.
 <br><br>
-The next object is an External Link. This is labeled **1. Click HERE to sign up for Hawkes Learning.** This is just a link to a URL that is outside of Canvas.
+The next object is an External Link. This is labeled **3. Click HERE to sign up for Hawkes Learning.** This is just a link to a URL that is outside of Canvas.
 <br><br>
+This should actually cover up to about 80% of the objects you utilize in Moodle (give or take). There are a few other objects that are in Moodle that will be used differently in Canvas. Here are some of those objects:
+
 ---
 
 ## Exporting from Moodle {#export}
