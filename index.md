@@ -20,11 +20,11 @@ Before we jump into the "How To" of all this, let's understand the big differenc
 <br><br>
 Moodle is very straight-forward: everything is located on a single page, so if you want to find anything, _just scroll down_. Here is a picture of the top of my Moodle course:
 <br><br>
-![Moodle course homepage](/assets/images/main_course_page.png)
+![Moodle course homepage](./assets/images/main_course_page.png)
 <br><br>
 To find the course content, just scroll down.
 <br><br>
-![Moodle course content](/assets/images/main_course_sections.png "Moodle course content")
+![Moodle course content](./assets/images/main_course_sections.png "Moodle course content")
 <br><br>
 Canvas does not have everything located in a single page. Instead, the user starts off at the _Homepage_. Here is a picture of my Canvas course homepage:
 <br><br>
@@ -94,4 +94,5 @@ Content coming soon.<br><br>
 
 
 This guide was designed as a single-page, anchored documentation resource to reduce faculty friction during LMS transition.
+
 
